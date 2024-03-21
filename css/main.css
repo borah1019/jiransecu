@@ -129,7 +129,7 @@ section {
 
 .btn_fixed .btn_go_top {
   width: 50px;
-  background-image: url(/img/common/img_quick_top_m.png);
+  background-image: url("../img/common/img_quick_top_m.png");
 }
 
 /* Header */
@@ -152,7 +152,7 @@ section {
   position: absolute;
   top: 50%;
   transform: translate(0, -50%);
-  background: url(../img/common/img_ci_jiransecurity@2x.png) no-repeat;
+  background: url("../img/common/img_ci_jiransecurity@2x.png") no-repeat;
   background-size: contain;
   width: 175px;
   height: 22px;
@@ -170,13 +170,13 @@ section {
 #header .btn_search_open {
   width: 36px;
   height: 36px;
-  background: url(../img/common/ico-gnb-search.png) no-repeat;
+  background: url("../img/common/ico-gnb-search.png") no-repeat;
 }
 
 #header .btn_allmenu_open {
   width: 36px;
   height: 36px;
-  background: url(../img/common/ico-gnb-allmenu.png) no-repeat;
+  background: url("../img/common/ico-gnb-allmenu.png") no-repeat;
 }
 
 /* Header - Search Wrap (Common) */
@@ -195,7 +195,7 @@ section {
   position: absolute;
   width: 23px;
   height: 23px;
-  background: url(/img/common/ico_search_txt_del@2x.png);
+  background: url("../img/common/ico_search_txt_del@2x.png");
   background-size: contain;
 }
 
@@ -228,7 +228,7 @@ section {
   top: 50%;
   width: 36px;
   height: 36px;
-  background: url(/img/common/ico-searchbar-txt-del.png) no-repeat 0 50%;
+  background: url("../img/common/ico-searchbar-txt-del.png") no-repeat 0 50%;
   transform: translateY(-50%);
 }
 
@@ -240,7 +240,7 @@ section {
   box-sizing: border-box;
   width: 36px;
   height: 36px;
-  background: url(/img/common/ico-gnb-search.png);
+  background: url("../img/common/ico-gnb-search.png");
   background-size: contain;
   transform: translateY(-50%);
 }
@@ -295,7 +295,7 @@ section {
   top: 25px;
   width: 36px;
   height: 36px;
-  background: url(/img/common/ico_gnb_allmenu_close@2x.png);
+  background: url("../img/common/ico_gnb_allmenu_close@2x.png");
   background-size: contain;
 }
 
@@ -356,7 +356,7 @@ section {
   display: block;
   width: 36px;
   height: 36px;
-  background: url(/img/common/ico-footer-familysite-on.png) no-repeat;
+  background: url("../img/common/ico-footer-familysite-on.png") no-repeat;
   background-size: contain;
 }
 
@@ -559,7 +559,7 @@ section {
 /* Video Wrap (Common) */
 
 #main .main_video_wrap {
-  background: url(../img/main/bg_video.png) no-repeat center #fff6f4;
+  background: url("../img/main/bg_video.png") no-repeat center #fff6f4;
 }
 
 #main .main_video_wrap .inner {
@@ -656,22 +656,22 @@ section {
 
 #main .main_customer_wrap .customer_title_box strong.product_1 {
   width: 164px;
-  background: url(/img/main/img_customers_officehardvex.png) no-repeat;
+  background: url("../img/main/img_customers_officehardvex.png") no-repeat;
 }
 
 #main .main_customer_wrap .customer_title_box strong.product_2 {
   width: 142px;
-  background: url(/img/main/img_customers_spamsniper.png) no-repeat;
+  background: url("../img/main/img_customers_spamsniper.png") no-repeat;
 }
 
 #main .main_customer_wrap .customer_title_box strong.product_3 {
   width: 103px;
-  background: url(/img/main/img_customers_docuone.png) no-repeat;
+  background: url("../img/main/img_customers_docuone.png") no-repeat;
 }
 
 #main .main_customer_wrap .customer_title_box strong.product_4 {
   width: 164px;
-  background: url(/img/main/img_customers_mobilekeeper.png) no-repeat;
+  background: url("../img/main/img_customers_mobilekeeper.png") no-repeat;
 }
 
 #main .main_customer_wrap .customer_txt_box {
@@ -1308,7 +1308,7 @@ section {
     padding-top: 140px;
     justify-content: space-between;
     align-items: center;
-    background: url(/img/common/img_allmenu_visual@2x.png) no-repeat top;
+    background: url("../img/common/img_allmenu_visual@2x.png") no-repeat top;
     background-size: 100% auto;
   }
   
@@ -1334,11 +1334,11 @@ section {
   .btn_fixed .btn_inquire {
     margin-right: 10px;
     width: 102px;
-    background-image: url(/img/common/img_quick_contact_m.png);
+    background-image: url("../img/common/img_quick_contact_m.png");
   }
 
   .btn_fixed .btn_inquire:hover {
-    background-image: url(/img/common/img_quick_contact_over_m.png);
+    background-image: url("../img/common/img_quick_contact_over_m.png");
   }
   
   .btn_fixed .btn_go_top:hover {
@@ -1693,7 +1693,7 @@ section {
   #header .allmenu_wrap .btn_allmenu_close {
     right: 24px;
     top: 12px;
-    background-image: url(/img/common/ico_gnb_allmenu@2x.png);
+    background-image: url("../img/common/ico_gnb_allmenu@2x.png");
   }
 
   #header .allmenu_wrap .allmenu_list {
@@ -1790,7 +1790,7 @@ section {
   .btn_fixed .btn_inquire {
     margin-top: 10px;
     width: 50px;
-    background-image: url(/img/common/btn_contact@2x.png);
+    background-image: url("../img/common/btn_contact@2x.png");
   }
 
   /* Header (Mob) */
